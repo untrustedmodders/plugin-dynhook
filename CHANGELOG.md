@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/untrustedmodders/dynhook/compare/v1.0.2...v1.0.3) (2025-02-10)
+
+
+### Bug Fixes
+
+* version and exports ([19c616e](https://github.com/untrustedmodders/dynhook/commit/19c616e71ba987d7ce8628c80af0eeb015cfe08e))
+
 ## [1.0.2](https://github.com/untrustedmodders/dynhook/compare/v1.0.1...v1.0.2) (2025-02-05)
 
 
